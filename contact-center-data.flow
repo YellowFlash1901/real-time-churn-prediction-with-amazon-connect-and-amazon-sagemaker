@@ -16,7 +16,7 @@
           "description": null,
           "s3ExecutionContext": {
             "__typename": "S3ExecutionContext",
-            "s3Uri": "s3://<BUCKET>/DEMO-xgboost-churn/input/churn_processed.csv",
+            "s3Uri": "s3:///<BUCKET>/DEMO-xgboost-churn/input/churn_processed.csv",
             "s3ContentType": "csv",
             "s3HasHeader": true,
             "s3FieldDelimiter": ",",
